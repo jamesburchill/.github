@@ -1,3 +1,1 @@
-# .github
-
-Default files for my account and repositories.
+# WARNING: This project is under active design and development. Trust nothing!
